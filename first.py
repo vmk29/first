@@ -1,4 +1,4 @@
 #! usr/bin/python3
 ip=input("Enter IP:")
-print(ip)
+print("You entered: "ip)
 
